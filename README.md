@@ -14,7 +14,7 @@
 ### Short Description
 A student that loves to know about almost everything and wants to grow exponentially and influence others to do the same.
 
-I am also a volunteer at CT Junior (CTO) who wants a more entrepreneurial Brazil.
+I am also a volunteer at <a href="ctjunior.com.br">CT Junior</a> (CTO) who wants a more entrepreneurial Brazil.
 
 ### Some Languages and Tools
 
