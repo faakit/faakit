@@ -6,15 +6,15 @@
 
 
 ### I am a Developer, Enthusiast, Discoverer and Student!
-- 🔭 I am currently open for working!
+- 🔭 I am currently working at Adgrowth as fullstack typescript developer
 - 🧑‍🎓 I am studying Computer engineering
 - 📖 I am currently focused in the JS stack (Node and React)
 - 🕹️ I love to play in my free time
 
 ### Short Description
-A student that loves to know about almost everything and wants to grow exponentially and influence others to do the same.
+A developer that loves to know about almost everything and wants to grow exponentially and influence others to do the same. 
 
-I am also a volunteer at <a href="https://ctjunior.com.br">CT Junior</a> (CTO) who wants a more entrepreneurial Brazil.
+I was a volunteer (positioned as CTO) at <a href="https://ctjunior.com.br">CT Junior</a> and implemented the first web systems sold by the organization, also proud of the positive impact on the students at the project.
 
 ### Some Languages and Tools
 
