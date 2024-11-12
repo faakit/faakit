@@ -4,17 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-altoe)](https://www.linkedin.com/in/andre-altoe)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5528999850991&text=Hello!)](https://api.whatsapp.com/send?phone=5528999850991&text=Hello!)
 
-
-### I am a Developer, Enthusiast, Discoverer and Student!
-- 🔭 I am currently working at Adgrowth as fullstack typescript developer
-- 🧑‍🎓 I am studying Computer engineering
-- 📖 I am currently focused in the JS stack (Node and React)
-- 🕹️ I love to play in my free time
-
 ### Short Description
-A developer that loves to know about almost everything and wants to grow exponentially and influence others to do the same. 
+As a developer who thrives on solving tough problems, I turn code into meaningful solutions that make an impact. My specialty is full-stack development, with a strong focus on JavaScript and TypeScript ecosystems, where I’m known for my adaptability and knack for finding just the right tool for any job.
 
-I was a volunteer (positioned as CTO) at <a href="https://ctjunior.com.br">CT Junior</a> and implemented the first web systems sold by the organization, also proud of the positive impact on the students at the project.
+Tech has been my playground since I was young, fueling a lifelong curiosity to push boundaries. While I’m seasoned in building responsive web and mobile interfaces, I’ve recently delved deeper into back-end development, expanding my skill set to cover the full stack.
+
+Driven by a love for learning and innovation, I’m dedicated to exploring every twist and turn of the tech landscape, uncovering new ways to turn ideas into reality.
 
 ### Some Languages and Tools
 
@@ -26,6 +21,7 @@ I was a volunteer (positioned as CTO) at <a href="https://ctjunior.com.br">CT Ju
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+**And much more!**
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
