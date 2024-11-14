@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=faakit)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/faakit)](https://github.com/faakit)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-altoe)](https://www.linkedin.com/in/andre-altoe)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5528999850991&text=Hello!)](https://api.whatsapp.com/send?phone=5528999850991&text=Hello!)
 
 ### Short Description
 As a developer who thrives on solving tough problems, I turn code into meaningful solutions that make an impact. My specialty is full-stack development, with a strong focus on JavaScript and TypeScript ecosystems, where I’m known for my adaptability and knack for finding just the right tool for any job.
